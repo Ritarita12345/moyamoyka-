@@ -1,4 +1,4 @@
-[READMEe.md](https://github.com/user-attachments/files/23891282/READMEe.md)
+
 # Автомойка
 
 ## ТЗ
