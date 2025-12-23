@@ -84,6 +84,13 @@ Push-уведомления: О предстоящих записях, стат�
 Минимальное количество машин: 0 или 290 (5 боксов * 58) машин/день.
 ## Ссылки
 UseCase https://github.com/Ritarita12345/moyamoyka-/blob/main/UseCaseTT.md
+
 User Stories https://github.com/Ritarita12345/moyamoyka-/blob/main/UserStories.md
+
 sequncediagram https://github.com/Ritarita12345/moyamoyka-/blob/main/sequncediagram.plantuml
+<img width="1427" height="1312" alt="image" src="https://github.com/user-attachments/assets/e7fbf060-d0c7-413a-934f-4a4ba312bad0" />
+
+
 UML_UseCases https://github.com/Ritarita12345/moyamoyka-/blob/main/UML_UseCases.plantuml
+<img width="360" height="1273" alt="image" src="https://github.com/user-attachments/assets/2a8c7387-19cb-40f8-bbc1-614d94a1b547" />
+
