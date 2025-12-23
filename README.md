@@ -82,3 +82,8 @@ Push-уведомления: О предстоящих записях, стат�
 ### Итоги:
 Максимальное количество машин: 580 (10 боксов * 58) машин/день.
 Минимальное количество машин: 0 или 290 (5 боксов * 58) машин/день.
+## Ссылки
+UseCase https://github.com/Ritarita12345/moyamoyka-/blob/main/UseCaseTT.md
+User Stories https://github.com/Ritarita12345/moyamoyka-/blob/main/UserStories.md
+sequncediagram https://github.com/Ritarita12345/moyamoyka-/blob/main/sequncediagram.plantuml
+UML_UseCases https://github.com/Ritarita12345/moyamoyka-/blob/main/UML_UseCases.plantuml
