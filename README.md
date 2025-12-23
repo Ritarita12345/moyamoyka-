@@ -88,6 +88,9 @@ UseCase https://github.com/Ritarita12345/moyamoyka-/blob/main/UseCaseTT.md
 statusmodel https://github.com/Ritarita12345/moyamoyka-/blob/main/statusmodel.uml
 <img width="327" height="606" alt="image" src="https://github.com/user-attachments/assets/011bf884-9a5e-4525-85d6-b9d599eeaa5a" />
 
+userstorymapping https://github.com/Ritarita12345/moyamoyka-/blob/main/userstorymapping.png
+<img width="1954" height="943" alt="image" src="https://github.com/user-attachments/assets/8ba93234-dead-4df3-bed5-53439318fb51" />
+
 
 User Stories https://github.com/Ritarita12345/moyamoyka-/blob/main/UserStories.md
 
