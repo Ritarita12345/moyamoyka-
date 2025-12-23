@@ -85,6 +85,10 @@ Push-уведомления: О предстоящих записях, стат�
 ## Ссылки
 UseCase https://github.com/Ritarita12345/moyamoyka-/blob/main/UseCaseTT.md
 
+statusmodel https://github.com/Ritarita12345/moyamoyka-/blob/main/statusmodel.uml
+<img width="327" height="606" alt="image" src="https://github.com/user-attachments/assets/011bf884-9a5e-4525-85d6-b9d599eeaa5a" />
+
+
 User Stories https://github.com/Ritarita12345/moyamoyka-/blob/main/UserStories.md
 
 sequncediagram https://github.com/Ritarita12345/moyamoyka-/blob/main/sequncediagram.plantuml
