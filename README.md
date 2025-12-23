@@ -94,3 +94,10 @@ sequncediagram https://github.com/Ritarita12345/moyamoyka-/blob/main/sequncediag
 UML_UseCases https://github.com/Ritarita12345/moyamoyka-/blob/main/UML_UseCases.plantuml
 <img width="360" height="1273" alt="image" src="https://github.com/user-attachments/assets/2a8c7387-19cb-40f8-bbc1-614d94a1b547" />
 
+C4
+[https://github.com/Ritarita12345/moyamoyka-/blob/main/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%BE%D0%B2%20c4.%20PNG](https://github.com/Ritarita12345/moyamoyka-/blob/main/conteiner%20diagram.png)
+<img width="942" height="937" alt="image" src="https://github.com/user-attachments/assets/b7f7f3a4-7c66-4776-8c83-518b6ab365f9" />
+
+
+https://github.com/Ritarita12345/moyamoyka-/blob/main/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20c4.PNG
+<img width="1216" height="734" alt="image" src="https://github.com/user-attachments/assets/412e59b1-9847-40bc-8f75-b0c7e8e695f2" />
